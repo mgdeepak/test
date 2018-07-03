@@ -3,7 +3,12 @@ def message():
     print ("hello world")
 
 def city():
-    print ("bazpur")
+    print ("haldwani")
+
+
+def state():
+    print ("uttarakhand")
+
 
 message()
 city()
