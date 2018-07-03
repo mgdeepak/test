@@ -7,7 +7,7 @@ def city():
 
 
 def state():
-    print ("uttarakhand")
+    print ("delhi")
 
 
 message()
