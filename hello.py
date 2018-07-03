@@ -7,7 +7,12 @@ def city():
 
 
 def state():
-    print ("delhi")
+    print ("bengal")
+
+
+
+def country():
+    print ("india")
 
 
 message()
